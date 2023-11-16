@@ -6,7 +6,7 @@ import (
 	"log"
 	"strings"
 
-	"github.com/lukeroth/gdal"
+	"github.com/bjoern234/gdal"
 )
 
 func main() {
