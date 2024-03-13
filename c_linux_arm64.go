@@ -4,7 +4,8 @@
 package gdal
 
 /*
-#cgo pkg-config: gdal
+#cgo CFLAGS: -I/usr/include/gdal
+#cgo LDFLAGS: -lgdal
 */
 
 import "C"
